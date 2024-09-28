@@ -24,7 +24,7 @@
 1. **Install Python:** Make sure you have Python installed on your system.
 2. **Install Dependencies:** Install the required libraries by running the following command in your terminal:
    ```bash
-   pip install pynput pyperclip
+   pip install -r requirements.txt
    ```
 
 ### Key Combinations:
